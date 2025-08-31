@@ -1,10 +1,14 @@
 {
-  "groups": [],
+  "groups": [
+    -1003084589649
+  ],
   "users": [
     "8022912187"
   ],
   "premium": {},
-  "user_group_count": {},
+  "user_group_count": {
+    "8022912187": 1
+  },
   "owner": [
     "8022912187"
   ],
