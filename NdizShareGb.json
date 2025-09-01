@@ -20,5 +20,9 @@
   ],
   "cooldowns": {
     "share": {}
+  },
+  "lastMenuMessage": {
+    "chatId": 8022912187,
+    "messageId": 9419
   }
 }
