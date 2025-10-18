@@ -2,12 +2,8 @@
   "premium": {},
   "owner": [],
   "partner": {},
-  "groups": [
-    -1003091048418
-  ],
-  "user_group_count": {
-    "8032224486": 1
-  },
+  "groups": [],
+  "user_group_count": {},
   "users": [
     "8032224486",
     "8022912187"
