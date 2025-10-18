@@ -1,11 +1,13 @@
 {
-  "premium": {
-    "8022912187": 1761053333
-  },
+  "premium": {},
   "owner": [],
   "partner": {},
-  "groups": [],
-  "user_group_count": {},
+  "groups": [
+    -1003084589649
+  ],
+  "user_group_count": {
+    "8022912187": 1
+  },
   "users": [
     "8032224486",
     "8022912187",
